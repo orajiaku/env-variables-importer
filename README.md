@@ -1,5 +1,5 @@
 # Environment Variables Importer
-------------------------------------
+
 This module makes missing environment variable errors more obvious.
 
 ```
